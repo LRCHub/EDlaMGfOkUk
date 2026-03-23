@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "知った。",
+  "base_artist": "Watson",
+  "createdAt": "2026-03-23T07:03:08.404418Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "知った。 (feat. IO)",
+      "artist": "Watson",
+      "has_synced": false,
+      "path": "select/pl_01_知った。_(feat._IO)_Watson.txt"
+    }
+  ]
+}
